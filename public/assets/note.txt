@@ -1,0 +1,3 @@
+in auth.js of conrollers 
+error in signup form 
+says catch block cannot be in there
